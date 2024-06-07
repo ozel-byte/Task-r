@@ -1,7 +1,5 @@
 import { useState } from "react"
-import { SearchInput } from "./components/SearchInput"
-import { TaskList } from "./components/TaskList"
-import { ButtonAddTask } from "./components/ButtonAddTask"
+import { SearchInput,TaskList, ButtonAddTask } from "./components"
 
 
 export const TaskApp = () => {

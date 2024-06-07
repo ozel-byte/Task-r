@@ -1,7 +1,4 @@
-
-
 export const TaskList = ({ tasks }) => {
-
     return (
         <div className="mt-4">
             <ul>

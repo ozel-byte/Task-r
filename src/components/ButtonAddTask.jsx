@@ -1,6 +1,3 @@
-
-
-
 export const ButtonAddTask = ({ onAddnewTask, newValue }) => {
 
     const addnewTask = () => {
