@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { SearchInput,TaskList, ButtonAddTask } from "./components"
+import { SearchInput, TaskList, ButtonAddTask } from "./components"
 
 
 export const TaskApp = () => {

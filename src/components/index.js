@@ -1,3 +1,3 @@
-export * from './ButtonAddTask';
+export *  from './ButtonAddTask';
 export *  from './SearchInput';
-export * from './TaskList';
+export *  from './TaskList';
